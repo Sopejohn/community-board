@@ -9,6 +9,9 @@ Community Board is a web application that showcases a variety of food trucks and
 - [Contributing](#contributing)
 - [License](#license)
 
+## Project Walkthrough
+Find a video of the project walkthrough here: https://imgur.com/a/lYxuYbi 
+
 ## Installation
 
 To get started with the project, clone the repository and install the dependencies:
